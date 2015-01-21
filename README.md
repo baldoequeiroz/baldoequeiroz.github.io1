@@ -6,7 +6,8 @@ Basic template for creating [Bootstrap](http://getbootstrap.com) applications (p
 
 Here are a few quick steps to be up and running:
 
-1. Clone the repo: `git clone git@github.com:cyrilsuzat/jekyll-bootstrap.git`.
-2. Install [Jekyll](http://jekyllrb.com/docs/installation).
-3. Launch server: `jekyll serve --watch`.
-4. Open [http://localhost:4000](http://localhost:4000) in your browser.
+1. [Download ZIP](https://github.com/cyrilsuzat/jekyll-bootstrap/archive/master.zip) and extract it.
+2. Rename the folder and delete the files `README.md` and `LICENSE`.
+3. Install [Jekyll](http://jekyllrb.com/docs/installation).
+4. Launch server: `jekyll serve --watch`.
+5. Open [http://localhost:4000](http://localhost:4000) in your browser.
