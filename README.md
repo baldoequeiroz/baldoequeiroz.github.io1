@@ -13,3 +13,8 @@ Here are a few quick steps to be up and running:
 3. Install [Jekyll](http://jekyllrb.com/docs/installation).
 4. Launch server: `jekyll serve`.
 5. Open [http://localhost:4000](http://localhost:4000) in your browser.
+
+
+## References
+
+- [Using Bootstrap CSS with Jekyll](http://veithen.github.io/2015/03/26/jekyll-bootstrap.html)
