@@ -30,11 +30,3 @@ layout: page
   * Vamos buscar reparação pelos danos morais e materiais que você tenha sofrido.
 
 Se você está passando por uma das situações acima, ou precisa de um advogado por algum outro motivo, entre em contato pelo formulário:
-
-<form method="POST" action="http://formspree.io/advocacia@baldoequeiroz.com.br">
-  <input type="text" name="nome" placeholder="Seu nome">
-  <input type="text" name="telefone" placeholder="69 98415-4343">
-  <input type="email" name="email" placeholder="seu@email.com">
-  <textarea name="message" placeholder="Eu fui demitido e preciso de um advogado"></textarea>
-  <button type="submit">Enviar</button>
-</form>

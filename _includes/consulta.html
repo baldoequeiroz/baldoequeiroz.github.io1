@@ -1,17 +1,4 @@
----
-ID: 94
-post_title: Faça uma consulta
-author: Franklin Baldo
-post_date: 2016-06-19 10:26:07 -04:00
-layout: page
-
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-bigimg: /img/caixas.jpg
----
-
-Precisando de um advogado? Preencha o formulário de contato abaixo e em breve entraremos em contato.
-
+{% if page.consulta %}
 <form method="POST" action="http://formspree.io/advocacia@baldoequeiroz.com.br">
 
   <input type="text" name="nome" placeholder="Seu nome">
@@ -25,3 +12,5 @@ Precisando de um advogado? Preencha o formulário de contato abaixo e em breve e
   <button type="submit">Enviar</button>
 
 </form>
+
+{% endif %}
