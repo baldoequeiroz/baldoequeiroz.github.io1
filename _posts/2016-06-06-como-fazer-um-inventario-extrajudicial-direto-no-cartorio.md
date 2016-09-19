@@ -1,9 +1,7 @@
 ---
-title: Como Fazer Um Inventario Extrajudicial Direto No Cartorio
+title: Como fazer um inventário extrajudicial (direto no cartório)?
 date: 2016-06-06 00:00:00 -04:00
 ID: 42
-post_title: |
-  Como fazer um inventário extrajudicial (direto no cartório)?
 author: Arthur Antunes
 post_date: 2016-06-06 17:45:00 -04:00
 layout: post

@@ -1,14 +1,13 @@
 ---
-title: Acabou O Contrato De Trabalho Que Direitos Eu Tenho
+title: Acabou o contrato de trabalho: que direitos eu tenho?
 date: 2016-07-26 00:00:00 -04:00
 ID: 137
-post_title: 'Acabou o contrato de trabalho: que direitos eu tenho?'
 author: Arthur Antunes
 post_date: 2016-07-26 16:30:32 -04:00
 layout: post
 ---
 
-<img class="size-medium wp-image-142" src="http://www.baldoequeiroz.com.br/wp-content/uploads/2016/07/Handshake-300x189.jpg" alt="Crédito da imagem: https://commons.wikimedia.org/wiki/File:Handshake.jpg" width="300" height="189" />
+<img class="size-medium wp-image-142" src="https://commons.wikimedia.org/wiki/File:Handshake.jpg" alt="Crédito da imagem: " width="300" height="189" />
 
 O contrato individual de trabalho é o instrumento jurídico que expressa o acordo entre empregado e empregador, dando origem ao vínculo empregatício. Quando ocorrem situações que tornam esse vínculo insustentável, por qualquer motivo, tem-se a rescisão do contrato.
 
