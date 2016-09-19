@@ -23,7 +23,7 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  Quem somos: "quem-somos"
+  Quem somos: "about"
   Nossos serviços: "nossos-servicos"
   Faça uma consulta: "faca-uma-consulta"
   Localização: "localizacao"
@@ -40,11 +40,11 @@ logo: "/img/Logo_lateral_Baldoequeiroz.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Baldo e Queiroz Advogados
-  email: "youremail@domain.com"
+  email: "advocacia@baldoequeiroz.com.br"
   facebook: baldoequeiroz  # eg. daattali
   github: baldoequeiroz    # eg. daattali
   twitter: baldoequeiroz   # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
+  google-plus: +baldoequeirozbrasil   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"

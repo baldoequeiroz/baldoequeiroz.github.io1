@@ -4,6 +4,7 @@ post_title: Quem somos
 author: Franklin Baldo
 post_date: 2016-05-11 21:32:24 -04:00
 layout: page
+consulta: true
 ---
 
 # QUEM SOMOS

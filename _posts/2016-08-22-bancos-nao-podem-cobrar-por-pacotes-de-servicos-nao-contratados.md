@@ -1,5 +1,5 @@
 ---
-title: Bancos Nao Podem Cobrar Por Pacotes De Servicos Nao Contratados
+title: Bancos não podem cobrar por pacotes de serviços não contratados
 date: 2016-08-22 00:00:00 -04:00
 ID: 187
 post_title: |
@@ -8,8 +8,6 @@ author: Arthur Antunes
 post_date: 2016-08-22 13:22:53 -04:00
 layout: post
 ---
-
-<img class="size-medium wp-image-188 alignright" src="http://www.baldoequeiroz.com.br/wp-content/uploads/2016/08/5912231439_26f8836d3e_b-300x203.jpg" width="300" height="203" />
 
 Outro dia normal no escritório e durante conversa com uma de nossas clientes, ela nos contou que ao ler melhor seu extrato bancário, notou a cobrança de uma tarifa chamada “cesta fácil econômica”. Curiosa por saber desde quando vinha sofrendo esse desconto em conta, verificou os extratos dos meses anteriores e lá estava, mês a mês, a cobrança da tal tarifa.
 
