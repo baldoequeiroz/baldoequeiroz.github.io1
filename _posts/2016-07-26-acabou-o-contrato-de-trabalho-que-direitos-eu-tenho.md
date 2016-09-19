@@ -1,13 +1,10 @@
 ---
-title: Acabou o contrato de trabalho: que direitos eu tenho?
-date: 2016-07-26 00:00:00 -04:00
-ID: 137
-author: Arthur Antunes
-post_date: 2016-07-26 16:30:32 -04:00
 layout: post
+published: false
+title: 'Acabou o contrato de trabalho, quais são os meus direitos?'
 ---
-
-<img class="size-medium wp-image-142" src="https://commons.wikimedia.org/wiki/File:Handshake.jpg" alt="Crédito da imagem: " width="300" height="189" />
+![![20060909230352!Handshake.jpg]({{site.baseurl}}/img/20060909230352!Handshake.jpg)
+]({{site.baseurl}}/img/20060909230352!Handshake.jpg)
 
 O contrato individual de trabalho é o instrumento jurídico que expressa o acordo entre empregado e empregador, dando origem ao vínculo empregatício. Quando ocorrem situações que tornam esse vínculo insustentável, por qualquer motivo, tem-se a rescisão do contrato.
 
@@ -17,7 +14,7 @@ Existem diversos tipos de rescisão e em cada uma delas, é necessário verifica
 # DISPENSA SEM JUSTA CAUSA
 É aquela em que o empregador, sem motivo, resolve findar o contrato de trabalho. Nesse caso, o empregado tem direito a:
 
-* aviso prévio (trabalhado ou indenizado, sendo que na modalidade trabalhada, o horário de trabalho do empregado será reduzido em duas horas diárias, sem prejuízo do salário ou o empregado pode trabalhar sem a redução das duas horas diárias e faltar 7 dias corridos, também sem prejuízo do salário;
+* aviso prévio (trabalhado ou indenizado, sendo que na modalidade trabalhada, o horário de trabalho do empregado será reduzido em duas horas diárias, sem prejuízo do salário ou o empregado pode trabalhar sem a redução das duas horas diárias e faltar 7 dias corridos, também sem prejuízo do salário);
 
 * férias vencidas, acrescidas de 1/3 (se houver);
 
