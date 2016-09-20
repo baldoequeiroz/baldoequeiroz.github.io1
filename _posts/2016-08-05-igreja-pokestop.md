@@ -1,13 +1,12 @@
 ---
+layout: post
 title: Minha igreja virou uma Pokéstop e agora?
 author: Franklin Baldo
-subtitle: 	
-bigimg:	
-share-img: 	
-layout:	post
+bigimg: null
+share-img: null
+published: true
 ---
-
-
+![pokemon-1543353_1920-e1470430641816-300x272.jpg]({{site.baseurl}}/img/pokemon-1543353_1920-e1470430641816-300x272.jpg)
 Depois de muita expectativa e atrasos, no dia 3 de agosto o jogo Pokemon GO finalmente foi lançado no Brasil. De repente, inúmeras igrejas se viram cercadas de jovens com os celulares sintonizados no app. Não se sabe bem porque, mas a Niantic (empresa que desenvolveu o app) definiu as muitas de suas pokéstops justamente na localização geográfica desses locais de culto.
 
 Por outro lado, tem-se notícia de que o jogo é abominado por muitas dessas denominações. E por isso, é compreensível que muitos líderes religiosos estejam revoltados com a associação do nome de suas igrejas ao jogo, além da repentina mudança no fluxo de visitantes em seus arredores. Daí vem a pergunta: a Igreja pode processar o aplicativo pelo uso indevido da imagem?
