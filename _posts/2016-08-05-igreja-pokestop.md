@@ -1,11 +1,10 @@
 ---
 title: Igreja Pokestop
-date: 2016-08-05 00:00:00 -04:00
-ID: 163
-post_title: Igreja que virou pokéstop pode processar o Pokémon GO?
 author: Franklin Baldo
-post_date: 2016-08-05 13:01:23 -04:00
-layout: post
+subtitle: 	
+bigimg:		
+share-img: 	
+layout:	post
 ---
 
 

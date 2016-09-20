@@ -1,7 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Acabou o contrato de trabalho, quais são os meus direitos?'
+subtitle: 	
+bigimg:		
+share-img: 	
+layout:	post
 ---
 ![![20060909230352!Handshake.jpg]({{site.baseurl}}/img/20060909230352!Handshake.jpg)
 ]({{site.baseurl}}/img/20060909230352!Handshake.jpg)
