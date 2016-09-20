@@ -1,10 +1,13 @@
 ---
+layout: post
 title: Comprei na Internet e o produto não chegou. O que devo fazer?
-date: 2016-09-09 23:37:00 -04:00
+date: 'Fri Sep 09 2016 23:37:00 GMT-0400'
 tags:
-- Direito do Consumidor
+  - Direito do Consumidor
 share-img: /img/carrinho.png
+published: true
 ---
+![balanca.jpg]({{site.baseurl}}/img/balanca.jpg)
 
 ![shopping-cart-728407_960_720-300x212.png](/img/carrinho.png)
 
