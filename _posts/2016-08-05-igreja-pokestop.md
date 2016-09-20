@@ -1,8 +1,8 @@
 ---
-title: Igreja Pokestop
+title: Minha igreja virou uma Pokéstop e agora?
 author: Franklin Baldo
 subtitle: 	
-bigimg:		
+bigimg:	
 share-img: 	
 layout:	post
 ---
