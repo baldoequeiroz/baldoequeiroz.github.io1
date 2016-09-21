@@ -17,7 +17,7 @@ baseurl: ""
 title: Baldo e Queiroz Advogados
 
 # Short description of your site
-description: Advocacia civil, trabalhista, administrativa e tributária. &#9878;
+description: Advocacia civil, trabalhista, administrativa e tributária. ⚖
 
 # --- Navigation bar options --- #
 
@@ -27,7 +27,7 @@ navbar-links:
   Serviços: "nossos-servicos"
   Faça uma consulta: "faca-uma-consulta"
   Endereço: "localizacao"
-  &#9742  (69)  98415-4343: "contatos"
+  ☎  (69)  98415-4343: "contatos"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
