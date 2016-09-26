@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: O inventariante no novo CPC
 ---
 Quando uma pessoa morre e deixa bens, alguém precisa cuidar desses bens até a passagem definitiva para os herdeiros. O inventariante é essa pessoa. Ele administra a herança, representa o espólio (conjunto de bens deixados pelo falecido) em ações judiciais ou extrajudicialmente. A responsabilidade do inventariante pelo espólio vai desde a assinatura do compromisso até o momento de homologação da partilha. 
