@@ -1,6 +1,6 @@
 ---
 title: esss
-date: '2016-10-06 10:12:40'
+date: '2016-10-06 00:00:00'
 layout: post
 show-avatar: true
 comments: true

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Minha igreja virou uma Pokéstop e agora?
+date: '2016-08-05 00:00:00'
+layout: post
 author: Franklin Baldo
-bigimg: null
-share-img: null
+bigimg: 
+share-img: 
 published: true
 ---
 ![pokemon-1543353_1920-e1470430641816-300x272.jpg]({{site.baseurl}}/img/pokemon-1543353_1920-e1470430641816-300x272.jpg)

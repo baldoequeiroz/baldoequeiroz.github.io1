@@ -1,11 +1,12 @@
 ---
+title: Como fazer um inventário extrajudicial (direto no cartório)?
+date: '2016-06-06 00:00:00'
 author: Arthur Antunes
-post_date: 2016-06-06 17:45:00 -04:00
-title:	Como fazer um inventário extrajudicial (direto no cartório)?	# Page or blog post title
-subtitle: 	
-bigimg:		
-share-img: 	
-layout:	post
+post_date: '2016-06-06T21:45:00.000+00:00'
+subtitle: 
+bigimg: 
+share-img: 
+layout: post
 ---
 
 A morte de um parente, além do sofrimento causado pela perda daquele ente querido, pode trazer muitas dores de cabeça envolvendo um temido instituto jurídico chamado inventário.
