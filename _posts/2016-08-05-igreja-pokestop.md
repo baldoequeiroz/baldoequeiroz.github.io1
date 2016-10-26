@@ -1,7 +1,6 @@
 ---
 title: Minha igreja virou uma Pokéstop e agora?
 date: '2016-08-05 00:00:00'
-layout: single
 author: Franklin Baldo
 ---
 ![pokemon-1543353_1920-e1470430641816-300x272.jpg]({{site.baseurl}}/img/pokemon-1543353_1920-e1470430641816-300x272.jpg)
