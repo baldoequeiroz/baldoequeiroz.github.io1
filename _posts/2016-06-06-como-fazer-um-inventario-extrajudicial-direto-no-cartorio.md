@@ -1,14 +1,7 @@
 ---
 title: Como fazer um inventário extrajudicial (direto no cartório)?
 date: '2016-06-06 00:00:00'
-author: Arthur Antunes
-post_date: '2016-06-06T21:45:00.000+00:00'
-subtitle: 
-bigimg: 
-share-img: 
-layout: post
 ---
-
 A morte de um parente, além do sofrimento causado pela perda daquele ente querido, pode trazer muitas dores de cabeça envolvendo um temido instituto jurídico chamado inventário.
 
 Sendo um procedimento de apuração tantos dos bens, como dos direitos e dívidas do falecido, e consequentemente, de realização da partilha entre os herdeiros, o inventário tem a fama de ser extremamente complicado e demorado, podendo ser realizado pela via judicial (e é daí que se origina a “má” fama do instituto) ou extrajudicial, diretamente no cartório.

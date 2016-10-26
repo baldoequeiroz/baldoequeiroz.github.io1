@@ -1,17 +1,9 @@
 ---
 title: Acabou o contrato de trabalho, quais são os meus direitos?
 date: '2016-07-26 00:00:00'
-layout: post
-published: true
-subtitle: 
-bigimg: 
-share-img: 
 ---
-![![20060909230352!Handshake.jpg]({{site.baseurl}}/img/20060909230352!Handshake.jpg)
-]({{site.baseurl}}/img/20060909230352!Handshake.jpg)
-
+{% include toc %}
 O contrato individual de trabalho é o instrumento jurídico que expressa o acordo entre empregado e empregador, dando origem ao vínculo empregatício. Quando ocorrem situações que tornam esse vínculo insustentável, por qualquer motivo, tem-se a rescisão do contrato.
-
 
 Existem diversos tipos de rescisão e em cada uma delas, é necessário verificar quais são os direitos trabalhistas resguardados. Fizemos um resumo abaixo para ajudar você trabalhador a conhecer os seus direitos:
 
@@ -34,7 +26,6 @@ Existem diversos tipos de rescisão e em cada uma delas, é necessário verifica
 
 * exigir que o empregador emita os documentos necessários para que o trabalhador possa se habilitar ao recebimento do Seguro-Desemprego.
 
-
 # DISPENSA COM JUSTA CAUSA
 
 ## POR CULPA DO TRABALHADOR
@@ -45,10 +36,8 @@ Quando o trabalhador comete qualquer uma das falhas descritas no art. 482 da CLT
 
 * férias vencidas, acrescidas de 1/3;
 
-
 ## POR CULPA DO EMPREGADOR (RESCISÃO INDIRETA)
 Se a justa causa se deu por culpa do empregador ou seus prepostos (chefes, gerentes, entre outros), ao cometer qualquer das faltas descritas no art. 483 da CLT, como por exemplo: exigir do empregado serviços superiores às suas forças, proibidos por lei, contrários aos bons costumes; quando o empregado for tratado pelo empregador ou por seus superiores hierárquicos com rigor excessivo; quando o empregador não cumprir as obrigações do contrato, serão devidos ao trabalhador os mesmos direitos concedidos em caso de dispensa sem justa causa, já visto no item 1, acima.
-
 
 # PEDIDO DE DEMISSÃO
 
@@ -62,7 +51,6 @@ Se a justa causa se deu por culpa do empregador ou seus prepostos (chefes, geren
 
 O trabalhador perde o direito ao aviso prévio (salvo se trabalhado e não haverá redução da jornada de trabalho), não tem direito à indenização de 40% sobre os depósitos no FGTS, nem pode sacá-lo. Também não lhe são entregues as guias para saque do Seguro-Desemprego e, ainda, deixa de incidir a proteção das garantias de emprego.
 
-
 # CULPA RECÍPROCA
 
 Ocorre quando tanto o trabalhador quanto o empregador praticaram infrações trabalhistas. Assim, a Justiça do Trabalho reconhece que houve justa causa de ambas as partes, sendo devidas as verbas rescisórias na proporção de 50% (cinquenta por cento), sendo elas:
@@ -74,6 +62,5 @@ Ocorre quando tanto o trabalhador quanto o empregador praticaram infrações tra
 * 13° salário proporcional;
 
 * férias proporcionais acrescidas de 1/3.
-
 
 Se você acredita que não recebeu tudo que lhe era devido, busque um advogado.
