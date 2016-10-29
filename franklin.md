@@ -5,8 +5,6 @@ layout: page
 consulta: true
 ---
 
-# Franklin Silveira Baldo
-
 ### Formação acadêmica
 
 * Bacharel em Direito pela Universidade Federal de Rondônia (2006 - 2010)
