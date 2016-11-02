@@ -2,6 +2,7 @@
 title: Minha igreja virou uma Pokéstop e agora?
 date: '2016-08-05 00:00:00'
 author: Franklin Baldo
+permalink: /igreja-pokestop/
 ---
 ![pokemon-1543353_1920-e1470430641816-300x272.jpg]({{site.baseurl}}/img/pokemon-1543353_1920-e1470430641816-300x272.jpg)
 Depois de muita expectativa e atrasos, no dia 3 de agosto o jogo Pokemon GO finalmente foi lançado no Brasil. De repente, inúmeras igrejas se viram cercadas de jovens com os celulares sintonizados no app. Não se sabe bem porque, mas a Niantic (empresa que desenvolveu o app) definiu as muitas de suas pokéstops justamente na localização geográfica desses locais de culto.
