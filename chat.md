@@ -3,6 +3,7 @@ title: Contato
 author: Franklin Baldo
 post_date: '2016-05-12T01:48:05.000+00:00'
 layout: page
+permalink: /chat
 ---
 
 <div id='tawk_5819ff66e808d60cd077351f'></div>
