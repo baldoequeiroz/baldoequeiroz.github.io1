@@ -1,11 +1,6 @@
 ---
-title: 
-ID: 11
-post_title: Quem somos
-author: Franklin Baldo
-post_date: '2016-05-12T01:32:24.000+00:00'
+title: Quem somos
 layout: page
-consulta: true
 ---
 
 # QUEM SOMOS
